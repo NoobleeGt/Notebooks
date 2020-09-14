@@ -1,3 +1,5 @@
 .venv
 Tests
 my_params.mplstyle
+.ipynb_checkpoints
+__pycache__
