@@ -8,6 +8,5 @@ font.size : 14
 lines.linewidth : 2.0
 lines.markersize : 8
 legend.fontsize : 14
-text.usetex : True
 font.family : DejaVu Sans
 font.serif : cm
