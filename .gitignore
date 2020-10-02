@@ -2,3 +2,5 @@
 Tests
 .ipynb_checkpoints
 __pycache__
+LatexFiles
+export_to_latex.sh
