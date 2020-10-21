@@ -5,3 +5,4 @@ __pycache__
 LatexFiles
 export_to_latex.sh
 Electrotechnique
+svg_to_png.sh
