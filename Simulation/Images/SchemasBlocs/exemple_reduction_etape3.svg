@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="134mm" height="22mm" viewBox="2700 3900 13400 2200" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="2700" y="3900" width="13400" height="2200"/>
+  </clipPath>
+  <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
+   <rect x="2713" y="3902" width="13374" height="2196"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="DejaVu Math TeX Gyre embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1614" descent="423"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="z" horiz-adv-x="927" d="M 1004,0 L 82,0 82,86 748,957 221,957 221,773 115,773 115,1064 985,1064 985,977 319,107 897,107 897,299 1004,299 1004,0 Z"/>
+   <glyph unicode="v" horiz-adv-x="1191" d="M 1151,957 L 1032,957 641,0 506,0 115,957 -6,957 -6,1064 483,1064 483,957 313,957 612,225 911,957 752,957 752,1064 1151,1064 1151,957 Z"/>
+   <glyph unicode="S" horiz-adv-x="1112" d="M 1253,407 C 1253,263 1207,154 1114,82 1021,8 883,-29 700,-29 619,-29 535,-21 451,-4 363,12 276,37 190,71 L 190,412 305,412 C 307,298 339,214 403,160 466,105 561,78 688,78 806,78 896,101 958,147 1021,196 1053,265 1053,354 1053,427 1034,482 995,520 960,558 881,596 758,633 L 561,692 C 422,735 322,789 260,854 201,917 172,1006 172,1120 172,1248 217,1346 307,1416 397,1485 524,1520 686,1520 752,1520 827,1512 913,1497 993,1484 1081,1462 1178,1432 L 1178,1114 1065,1114 C 1055,1217 1020,1293 958,1344 900,1390 810,1413 690,1413 582,1413 502,1392 451,1348 395,1308 367,1246 367,1161 367,1090 388,1034 430,993 472,951 560,911 692,873 L 877,817 C 1012,776 1109,724 1167,662 1225,599 1253,514 1253,407 Z"/>
+   <glyph unicode="1" horiz-adv-x="795" d="M 1012,0 L 291,0 291,107 551,107 551,1348 250,1153 250,1284 614,1520 752,1520 752,107 1012,107 1012,0 Z"/>
+  </font>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_2" horiz-adv-x="2048">
+   <font-face font-family="Liberation Serif embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1826" descent="450"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="7" horiz-adv-x="848" d="M 201,1024 L 135,1024 135,1341 965,1341 965,1264 367,0 238,0 825,1188 236,1188 201,1024 Z"/>
+   <glyph unicode="6" horiz-adv-x="901" d="M 963,416 C 963,277 928,169 858,94 787,18 686,-20 553,-20 402,-20 287,39 208,156 128,273 88,442 88,662 88,806 109,930 151,1035 193,1140 252,1219 328,1274 403,1329 491,1356 590,1356 687,1356 784,1344 881,1321 L 881,1090 815,1090 780,1227 C 758,1239 728,1250 691,1259 654,1268 620,1272 590,1272 493,1272 417,1225 363,1131 308,1036 278,898 273,717 382,774 491,803 600,803 718,803 808,770 870,704 932,637 963,541 963,416 Z M 549,59 C 630,59 688,85 724,138 760,190 778,276 778,397 778,506 761,585 727,634 692,683 638,707 563,707 472,707 375,690 272,657 272,454 295,303 341,206 387,108 456,59 549,59 Z"/>
+   <glyph unicode="5" horiz-adv-x="848" d="M 485,784 C 640,784 755,752 831,689 906,626 944,529 944,399 944,264 903,161 821,89 739,16 622,-20 469,-20 342,-20 229,-6 130,23 L 119,305 185,305 230,117 C 259,101 295,88 336,78 377,68 416,63 453,63 558,63 636,88 686,138 735,187 760,271 760,389 760,472 749,534 728,577 707,619 673,650 626,670 579,690 517,700 438,700 377,700 318,692 260,676 L 164,676 164,1341 844,1341 844,1188 254,1188 254,760 C 326,776 403,784 485,784 Z"/>
+   <glyph unicode="4" horiz-adv-x="980" d="M 810,295 L 810,0 638,0 638,295 40,295 40,428 695,1348 810,1348 810,438 992,438 992,295 810,295 Z M 638,1113 L 633,1113 153,438 638,438 638,1113 Z"/>
+   <glyph unicode="3" horiz-adv-x="875" d="M 944,365 C 944,244 903,150 820,82 737,14 620,-20 469,-20 342,-20 222,-6 109,23 L 98,305 164,305 209,117 C 235,102 272,90 320,79 367,68 412,63 453,63 558,63 635,87 685,135 735,183 760,263 760,375 760,463 737,530 691,576 645,621 574,646 477,651 L 334,659 334,741 477,750 C 552,754 608,777 644,820 680,863 698,927 698,1014 698,1104 679,1170 640,1211 601,1252 538,1272 453,1272 418,1272 381,1267 342,1258 303,1248 269,1235 240,1219 L 205,1055 139,1055 139,1313 C 205,1330 262,1342 310,1348 358,1353 406,1356 453,1356 740,1356 883,1246 883,1026 883,933 858,860 807,805 756,750 683,715 590,702 711,688 801,653 858,598 915,542 944,464 944,365 Z"/>
+   <glyph unicode="2" horiz-adv-x="848" d="M 911,0 L 90,0 90,147 276,316 C 395,421 483,505 539,570 595,635 635,701 660,770 684,839 696,917 696,1006 696,1093 676,1159 637,1204 598,1249 533,1272 444,1272 409,1272 372,1267 335,1258 298,1248 265,1235 236,1219 L 201,1055 135,1055 135,1313 C 256,1342 359,1356 444,1356 591,1356 701,1326 775,1265 848,1204 885,1117 885,1006 885,931 871,861 842,795 813,728 768,662 708,597 648,531 549,439 410,321 351,270 288,215 221,154 L 911,154 911,0 Z"/>
+   <glyph unicode="1" horiz-adv-x="742" d="M 627,80 L 901,53 901,0 180,0 180,53 455,80 455,1174 184,1077 184,1130 575,1352 627,1352 627,80 Z"/>
+  </font>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_3" horiz-adv-x="2048">
+   <font-face font-family="OpenSymbol embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1402" descent="450"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="∗" horiz-adv-x="847" d="M 666,147 L 702,528 393,305 319,434 666,592 319,750 393,879 702,655 666,1036 815,1036 778,655 1087,879 1163,752 815,592 1163,434 1087,305 778,528 815,147 666,147 Z"/>
+   <glyph unicode="+" horiz-adv-x="980" d="M 512,115 L 512,516 115,516 115,684 512,684 512,1083 682,1083 682,684 1081,684 1081,516 682,516 682,115 512,115 Z"/>
+   <glyph unicode=")" horiz-adv-x="424" d="M 123,-434 C 318,-246 416,112 416,641 416,1162 318,1521 123,1716 L 123,1767 C 269,1651 375,1480 442,1253 497,1074 524,870 524,641 524,109 390,-266 123,-483 L 123,-434 Z"/>
+   <glyph unicode="(" horiz-adv-x="424" d="M 573,-434 L 573,-483 C 306,-259 172,116 172,641 172,1172 306,1548 573,1767 L 573,1716 C 378,1524 281,1166 281,641 281,111 378,-247 573,-434 Z"/>
+  </font>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template-57354" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template-10146" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10132" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10007" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template-10004" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template-9679" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template-8226" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template-8211" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+  <g id="bullet-char-template-61548" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 173,740 C 173,903 231,1043 346,1159 462,1274 601,1332 765,1332 928,1332 1067,1274 1183,1159 1299,1043 1357,903 1357,740 1357,577 1299,437 1183,322 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g class="SlideGroup">
+  <g>
+   <g id="container-id1">
+    <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+     <g class="Page">
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id3">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2799" y="4900" width="1602" height="201"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 2800,5000 L 4113,5000"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 4400,5000 L 4100,4900 4100,5100 4400,5000 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id4">
+        <rect class="BoundingBox" stroke="none" fill="none" x="3200" y="4100" width="782" height="748"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="494px" font-weight="400"><tspan class="TextPosition" x="3450" y="4619"><tspan fill="rgb(0,0,0)" stroke="none">v</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id5">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4399" y="4499" width="2003" height="1003"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 5400,5500 L 4400,5500 4400,4500 6400,4500 6400,5500 5400,5500 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="287px" font-weight="400"><tspan class="TextPosition" x="5140" y="5086"><tspan font-size="494px" fill="rgb(0,0,0)" stroke="none">S</tspan></tspan><tspan class="TextPosition" x="5479" y="5249"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id6">
+        <rect class="BoundingBox" stroke="none" fill="none" x="6399" y="4900" width="1602" height="201"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 6400,5000 L 7713,5000"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 8000,5000 L 7700,4900 7700,5100 8000,5000 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id7">
+        <rect class="BoundingBox" stroke="none" fill="none" x="7999" y="3999" width="6003" height="2003"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 11000,6000 L 8000,6000 8000,4000 14000,4000 14000,6000 11000,6000 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id8">
+        <rect class="BoundingBox" stroke="none" fill="none" x="14603" y="4102" width="765" height="748"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="494px" font-weight="400"><tspan class="TextPosition" x="14853" y="4621"><tspan fill="rgb(0,0,0)" stroke="none">z</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id9">
+        <rect class="BoundingBox" stroke="none" fill="none" x="13999" y="4900" width="2002" height="201"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 14000,5000 L 15713,5000"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 16000,5000 L 15700,4900 15700,5100 16000,5000 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id10">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2700" y="3900" width="13401" height="2201"/>
+       </g>
+      </g>
+      <g class="OLE2">
+       <g id="id11">
+        <rect class="BoundingBox" stroke="none" fill="none" x="8285" y="4059" width="5431" height="1884"/>
+        <defs>
+         <clipPath id="clip_path_1" clipPathUnits="userSpaceOnUse">
+          <path d="M 8281,4048 L 13705,4048 13705,5953 8281,5953 8281,4048 Z"/>
+         </clipPath>
+        </defs>
+        <g clip-path="url(#clip_path_1)">
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10216" y="4350"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="10481" y="4429"><tspan fill="rgb(0,0,0)" stroke="none">4</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10587" y="4350"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10825" y="4350"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="11063" y="4429"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11169" y="4350"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11407" y="4350"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="11672" y="4429"><tspan fill="rgb(0,0,0)" stroke="none">5</tspan></tspan></tspan></text>
+         <rect fill="rgb(0,0,0)" stroke="none" x="9238" y="4482" width="3524" height="17"/>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="9238" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">(</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="351px" font-weight="400"><tspan class="TextPosition" x="9396" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="9581" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="9820" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="10058" y="4932"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10137" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10402" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="10640" y="4932"><tspan fill="rgb(0,0,0)" stroke="none">3</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10772" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10878" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11116" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">(</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11248" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11434" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11672" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="11910" y="4932"><tspan fill="rgb(0,0,0)" stroke="none">5</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="12016" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="12254" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="12492" y="4932"><tspan fill="rgb(0,0,0)" stroke="none">6</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="12624" y="4853"><tspan fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
+         <rect fill="rgb(0,0,0)" stroke="none" x="8391" y="4985" width="5197" height="17"/>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="351px" font-weight="400"><tspan class="TextPosition" x="8417" y="5567"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="8629" y="5567"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10137" y="5303"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="10402" y="5382"><tspan fill="rgb(0,0,0)" stroke="none">4</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10508" y="5303"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10746" y="5303"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="10984" y="5382"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11090" y="5303"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11328" y="5303"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="11566" y="5382"><tspan fill="rgb(0,0,0)" stroke="none">5</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11672" y="5303"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11936" y="5303"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="12174" y="5382"><tspan fill="rgb(0,0,0)" stroke="none">7</tspan></tspan></tspan></text>
+         <rect fill="rgb(0,0,0)" stroke="none" x="8867" y="5461" width="4705" height="17"/>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="8867" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">(</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="351px" font-weight="400"><tspan class="TextPosition" x="8999" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="9211" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="9423" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="9661" y="5885"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="9767" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10005" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="10269" y="5885"><tspan fill="rgb(0,0,0)" stroke="none">3</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10402" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10481" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10719" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">(</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="351px" font-weight="400"><tspan class="TextPosition" x="10878" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11063" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11275" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="11539" y="5885"><tspan fill="rgb(0,0,0)" stroke="none">5</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11645" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="11883" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="12121" y="5885"><tspan fill="rgb(0,0,0)" stroke="none">6</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="12254" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">)</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="12360" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="12598" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="12836" y="5885"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="351px" font-weight="400"><tspan class="TextPosition" x="12942" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">∗</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="351px" font-weight="400"><tspan class="TextPosition" x="13180" y="5805"><tspan fill="rgb(0,0,0)" stroke="none">S</tspan></tspan></tspan></text>
+         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="210px" font-weight="400"><tspan class="TextPosition" x="13444" y="5885"><tspan fill="rgb(0,0,0)" stroke="none">5</tspan></tspan></tspan></text>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
