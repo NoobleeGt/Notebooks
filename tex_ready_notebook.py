@@ -2,7 +2,7 @@ from html.parser import HTMLParser
 import json
 import os
 
-os.chdir('./Electrotechnique')
+os.chdir('./Simulation')
 
 
 class MyHTMLParser(HTMLParser):
