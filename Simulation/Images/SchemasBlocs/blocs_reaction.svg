@@ -112,8 +112,8 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id10">
-        <rect class="BoundingBox" stroke="none" fill="none" x="10612" y="4499" width="789" height="603"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="353px" font-weight="400"><tspan class="TextPosition" x="10862" y="4903"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="10412" y="4699" width="789" height="603"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Math TeX Gyre" font-size="353px" font-weight="400"><tspan class="TextPosition" x="10662" y="5103"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
