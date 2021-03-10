@@ -2,7 +2,7 @@ from html.parser import HTMLParser
 import json
 import os
 
-os.chdir('./Simulation')
+os.chdir('./StateSpaceControl')
 
 
 class MyHTMLParser(HTMLParser):
