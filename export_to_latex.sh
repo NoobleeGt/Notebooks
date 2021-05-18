@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd Simulation
+cd AutomatiqueAvancee
 
 jupyter nbconvert --to latex *_temp.ipynb
 rm *_temp.ipynb
